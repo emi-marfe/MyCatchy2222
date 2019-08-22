@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Mycatchy</string>
+    <string name="FACEBOOK_APP_ID">367540340631372</string>
+    <string name="ACCOUNT_KIT_CLIENT_TOKEN">4a5ac6f728d75ecccbef8f667d13ce47</string>
+    <string name="title_activity_home">My Catchy</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_logout">Log out</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+    <string name="update_information">Update Information</string>
+    <string name="menu_nearby">Near by store</string>
+    <string name="order_history">Order History</string>
+</resources>
